@@ -1,0 +1,23 @@
+{
+  "name": "aminukano-palindrome",
+  "version": "0.1.0",
+  "description": "Palindrome detector",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aminukano585/aminukano-palindrome.git"
+  },
+  "keywords": [
+    "palindrome",
+    "javascript"
+  ],
+  "author": "Aminu Kano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aminukano585/aminukano-palindrome/issues"
+  },
+  "homepage": "https://github.com/aminukano585/aminukano-palindrome#readme"
+}
